@@ -18,7 +18,7 @@ Features-
 
 •	Responsive Design: Ensures the game works well on various screen sizes.
 
-Technologies Used
+Technologies Used-
 
 •	React: Frontend library for building user interfaces.
 
@@ -26,7 +26,7 @@ Technologies Used
 
 •	JavaScript ES6: Modern JavaScript syntax and features.
 
-Installation and Setup
+Installation and Setup-
 
 To run this project locally, follow these steps:
 
